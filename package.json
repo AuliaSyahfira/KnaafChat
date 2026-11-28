@@ -1,0 +1,21 @@
+{
+  "name": "knaafchat",
+  "version": "1.0.0",
+  "description": "| No. | Nama Anggota | NIM |\r |:---:|---|---|\r | 1. | Aulia Syahfira - PM | 251402104 |\r | 2. | Aliyah Briek Salem Ghuzie | 251402010 |\r | 3. | Ainuha Suraiya | 251402122 |\r | 4. | Muhammad Kevin Ramadhan | 251402013 |\r | 5. | Hadziq Naufal Sinaga | 251402095 |",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AuliaSyahfira/KnaafChat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AuliaSyahfira/KnaafChat/issues"
+  },
+  "homepage": "https://github.com/AuliaSyahfira/KnaafChat#readme"
+}
